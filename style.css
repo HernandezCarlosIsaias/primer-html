@@ -4,10 +4,10 @@ body {
 }
 
 h1{
-    color: blue;
+    color: rgb(255, 204, 0);
 }
 
 h1.carlos{
-    color: blueviolet;
+    color: rgb(240, 198, 9);
 }
 
